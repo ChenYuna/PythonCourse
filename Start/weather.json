@@ -1,0 +1,42 @@
+{
+	'coord': {
+		'lon': 114.0683,
+		'lat': 22.5455
+	},
+	'weather': [{
+		'id': 803,
+		'main': 'Clouds',
+		'description': 'broken clouds',
+		'icon': '04n'
+	}],
+	'base': 'stations',
+	'main': {
+		'temp': 19.63,
+		'feels_like': 19.03,
+		'temp_min': 18.24,
+		'temp_max': 21.19,
+		'pressure': 1006,
+		'humidity': 53
+	},
+	'visibility': 10000,
+	'wind': {
+		'speed': 1.06,
+		'deg': 137,
+		'gust': 1.67
+	},
+	'clouds': {
+		'all': 69
+	},
+	'dt': 1638700602,
+	'sys': {
+		'type': 2,
+		'id': 2043217,
+		'country': 'CN',
+		'sunrise': 1638658188,
+		'sunset': 1638697144
+	},
+	'timezone': 28800,
+	'id': 1795565,
+	'name': 'Shenzhen',
+	'cod': 200
+}
